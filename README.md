@@ -1,7 +1,6 @@
-# My Windows Settings
+# ⚙️ My Windows Settings
 These are the settings that i'm currently using on my code editor.
 
-## 🔗Links
 ## Font
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
@@ -14,3 +13,4 @@ These are the settings that i'm currently using on my code editor.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
