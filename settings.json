@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    "git.autofetch": true,
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "glassit.alpha": 220,
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/breni/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "chatgpt.lang": "en"
+}
